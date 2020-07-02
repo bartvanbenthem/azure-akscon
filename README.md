@@ -1,2 +1,2 @@
 # azure-akscon
-Generate Azure DevOps service connections for AKS Namespaces
+Generate Azure DevOps service connections for specific AKS Namespaces
